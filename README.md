@@ -1,2 +1,2 @@
-<img src="assets/img.jpeg" alt="ThreatLabz" style="width:60%" />    
+<img src="assets/img.jpeg" alt="ThreatLabz" style="width:70%" />    
 
